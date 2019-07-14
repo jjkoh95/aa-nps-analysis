@@ -7,7 +7,7 @@ This project is my solution to annotate sentiments of NPS comments using pre-tra
 - Fastai
 
 ## Credits
-Shoutout to all AA ASL members 2018
+Shoutout to all AA ASL 2018 members
 
 ## Disclaimer
-I do not intend to go against any data privacy rules, this solely acts as a Fastai library practise. This is not associated with my current employer and DEFINITELY not used in production.
+I do not intend to go against any data privacy rules, this solely acts as a Fastai library practise. This project is not associated with my current employer and not used in production.
