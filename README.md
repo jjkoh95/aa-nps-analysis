@@ -21,7 +21,7 @@ This is not a fair comparison and please take it only as a reference. I personal
 | nnlm-en-128 (TF Hub) | 0.96 | 0.94 | 0.93 | 0.94 |
 | AutoML (Google) | 0.96/0.93 | 0.98/0.81 | 0.87/0.96 | 0.92/0.88 |
 
-Note: Since AutoML splits out `Neutral` on top of `Positive` and `Negative`, so it is very challenging to do unbiased comparison. Hence I recorded two values where 1st values are metrics considering `Neutral` to be `Negative` while the 2nd values are metrics considering `Neutral` to be `Positive`. Also, AutoML is used to test against only half of the human labelled dataset.
+Note: Since (AA custom trained) AutoML splits out `Neutral` on top of `Positive` and `Negative`, so it is very challenging to do unbiased comparison. Hence I recorded two values where 1st values are metrics considering `Neutral` to be `Negative` while the 2nd values are metrics considering `Neutral` to be `Positive`. Also, AutoML is used to test against only half of the human labelled dataset.
 
 ## Shoutout
 Shoutout to all AA ASL 2018 members!
