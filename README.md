@@ -19,10 +19,14 @@ This is not a fair comparison and please take it only as a reference. I personal
 | gnews-swivel (TF Hub) | 0.93 | 0.93 | 0.84 | 0.88 |
 | nnlm-en-50 (TF Hub) | 0.96 | 0.96 | 0.90 | 0.93 |
 | nnlm-en-128 (TF Hub) | 0.96 | 0.94 | 0.93 | 0.94 |
+| AutoML (Google) | 0.99 | 0.98 | 0.96 | 0.97|
+| ----- | ----- | ----- | ----- | -----|
+
+Note: Google AutoML only tested against half of the entire human labelled dataset.
 
 
 ## Shoutout
 Shoutout to all AA ASL 2018 members!
 
 ## Disclaimer
-This project is not directly associated with my current employer (yet). Most of the contents here are created during my leisure time to compare results of different ways of doing transfer learning and beat Google AutoML API.
+This project is not associated with my current employer. Most of the contents here are created during my leisure time to compare results of different ways of doing transfer learning and beat Google AutoML API.
