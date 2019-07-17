@@ -2,4 +2,7 @@ data/
 .ipynb_checkpoints/
 models/
 *.pkl
+*.csv
+*.pth
+*.h5
 metrics/
