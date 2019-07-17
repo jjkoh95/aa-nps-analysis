@@ -20,7 +20,6 @@ This is not a fair comparison and please take it only as a reference. I personal
 | nnlm-en-50 (TF Hub) | 0.96 | 0.96 | 0.90 | 0.93 |
 | nnlm-en-128 (TF Hub) | 0.96 | 0.94 | 0.93 | 0.94 |
 | AutoML (Google) | 0.99 | 0.98 | 0.96 | 0.97|
-| ----- | ----- | ----- | ----- | -----|
 
 Note: Google AutoML only tested against half of the entire human labelled dataset.
 
