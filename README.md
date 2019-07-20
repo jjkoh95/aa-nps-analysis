@@ -22,6 +22,7 @@ This is not a fair comparison and please take it only as a reference. I personal
 | AutoML (Google) | 0.96/0.93 | 0.98/0.81 | 0.87/0.96 | 0.92/0.88 |
 
 Note: Since (AA custom trained) AutoML spills out `Neutral` on top of `Positive` and `Negative`, so it is very challenging to do unbiased comparison. Hence I recorded two values where 1st values are metrics considering `Neutral` to be `Negative` while the 2nd values are metrics considering `Neutral` to be `Positive`. Also, AutoML is used to test against only half of the human labelled dataset.
+Personally, I'm also more into the idea of putting `Neutral` as `Negative` as most of the `Neutral` comments are suggestions to further improve customers experience and we should take that seriously and improve accordingly.
 
 ## Shoutout
 Shoutout to all AA ASL 2018 members!
